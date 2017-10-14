@@ -1,0 +1,23 @@
+{
+  "name": "sharp11-irb",
+  "version": "1.0.0",
+  "description": "A version of the iRb Jazz Corpus, serialized for use with Sharp11",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsrmath/sharp11-irb.git"
+  },
+  "keywords": [
+    "sharp11",
+    "jazz",
+    "real",
+    "book",
+    "irb",
+    "corpus"
+  ],
+  "author": "Julian Rosenblum",
+  "bugs": {
+    "url": "https://github.com/jsrmath/sharp11-irb/issues"
+  },
+  "homepage": "https://github.com/jsrmath/sharp11-irb#readme"
+}
